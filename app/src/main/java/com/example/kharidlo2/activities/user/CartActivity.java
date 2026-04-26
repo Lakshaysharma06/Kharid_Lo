@@ -13,7 +13,7 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
 import com.google.android.material.bottomnavigation.BottomNavigationView;
-import com.kharidlo.R;
+import com.example.kharidlo2.R;
 import com.kharidlo.adapters.CartAdapter;
 import com.kharidlo.models.CartManager;
 
